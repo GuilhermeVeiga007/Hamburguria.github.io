@@ -1,1 +1,1 @@
-# http://Hamburguria.github.io
+# Hamburguria.github.io
